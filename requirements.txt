@@ -1,5 +1,5 @@
-flask-SQLALCHEMY
-marshmallow
+flask-SQLALCHEMY==2.2
+marshmallow==2.15.1
 requests
 discogs_client
 beautifulsoup4
